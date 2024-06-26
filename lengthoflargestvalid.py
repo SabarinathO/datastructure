@@ -1,3 +1,4 @@
+# given a string consisting of opening and closing parenthesis, find the length of the longest valid parenthesis substring
 def longestValidParentheses(s) :
     stack = [-1]
     max_length = 0
