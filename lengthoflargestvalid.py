@@ -17,4 +17,4 @@ def longestValidParentheses(s) :
 
 
 s=(input("enter the character"))
-print(longestValidParentheses(s))  # Output: 6
+print(longestValidParentheses(s)) 
